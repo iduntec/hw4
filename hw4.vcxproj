@@ -150,11 +150,13 @@
     <ClCompile Include="CS_Course.cpp" />
     <ClCompile Include="EE_Course.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="Person.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Course.h" />
     <ClInclude Include="CS_Course.h" />
     <ClInclude Include="EE_Course.h" />
+    <ClInclude Include="Person.h" />
     <ClInclude Include="Proj.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
